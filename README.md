@@ -20,6 +20,8 @@ https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary
 
 ### 🖼 Output
 
+https://github.com/camenduru/DDColor-colab/assets/54370274/6f75b3ae-a1ed-48a8-882b-0c00ae332c3c
+
 
 ### 🏢 Sponsor
 https://modelslab.com
